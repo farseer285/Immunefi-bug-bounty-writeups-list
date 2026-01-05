@@ -145,3 +145,4 @@
 | -     | High | [Lido](https://research.lido.fi/t/security-disclosure-dg-weakness-reported-through-immunefi-funds-not-at-risk/10393) | [riptide](https://twitter.com/0xriptide)  |
 | 50k     | High | [Sui](https://immunefi.com/blog/bug-fix-reviews/sui-network-shutdown/) | F4lt |
 | -     | Critical | [marginfi](https://blog.asymmetric.re/threat-contained-marginfi-flash-loan-vulnerability/) | [Felix Wilhelm](https://x.com/_fel1x) |
+| Not Paid     | Critical | [RAI](https://www.trust-security.xyz/post/returndata-bombing-rai-s-liquidation-engine-a-critical-bug-worth-0) | [Trust Security](https://www.trust-security.xyz/team) |
