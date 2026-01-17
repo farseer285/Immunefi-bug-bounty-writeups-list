@@ -146,3 +146,4 @@
 | 50k     | High | [Sui](https://immunefi.com/blog/bug-fix-reviews/sui-network-shutdown/) | F4lt |
 | -     | Critical | [marginfi](https://blog.asymmetric.re/threat-contained-marginfi-flash-loan-vulnerability/) | [Felix Wilhelm](https://x.com/_fel1x) |
 | Not Paid     | Critical | [RAI](https://www.trust-security.xyz/post/returndata-bombing-rai-s-liquidation-engine-a-critical-bug-worth-0) | [Trust Security](https://www.trust-security.xyz/team) |
+| -     | High | [dHEDGE](https://x.com/s4muraii77/status/2012140371938070888) | [samuraii77](https://x.com/s4muraii77) |
